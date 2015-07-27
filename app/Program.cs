@@ -82,7 +82,7 @@ namespace app
 		{
 			get
 			{
-				if (_contacts != null) return _contacts; // todo: improbe caching
+				if (_contacts != null) return _contacts; // todo: improve caching
 				try
 				{
 					using (var sr = new StreamReader("Contacts.json"))
@@ -106,7 +106,7 @@ namespace app
 		{
 			get
 			{
-				if (_outlets != null) return _outlets; // todo: improbe caching
+				if (_outlets != null) return _outlets; // todo: improve caching
 				try
 				{
 					using (var sr = new StreamReader("Outlets.json"))

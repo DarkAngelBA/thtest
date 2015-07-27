@@ -6,3 +6,6 @@ D:\__tmp\tradehelm\app\bin\Debug\Newtonsoft.Json.xml
 D:\__tmp\tradehelm\app\obj\Debug\app.csprojResolveAssemblyReference.cache
 D:\__tmp\tradehelm\app\obj\Debug\app.exe
 D:\__tmp\tradehelm\app\obj\Debug\app.pdb
+D:\__tmp\tradehelm\thtest\app\bin\Debug\app.exe.config
+D:\__tmp\tradehelm\thtest\app\obj\Debug\app.exe
+D:\__tmp\tradehelm\thtest\app\obj\Debug\app.pdb
